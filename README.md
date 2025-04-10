@@ -1,11 +1,11 @@
 # DATA-ANALYSIS-USING-PYSPARK
 
-COMPANY: CODTECH IT SOLUTIONS
-NAME: VIKKI KUMAR
-INTERN ID: CT12WNH
-DOMAIN: DATA ANALYTICS
-DURATION: 8 WEEKS
-MENTOR: NEELA SANTOSH
+COMPANY: CODTECH IT SOLUTIONS.
+NAME: VIKKI KUMAR.
+INTERN ID: CT12WNH.
+DOMAIN: DATA ANALYTICS.
+DURATION: 8 WEEKS.
+MENTOR: NEELA SANTOSH.
 
 #OVERVIEW OF THE PROJECT: 
 
@@ -24,6 +24,7 @@ Performing data aggregation, filtering, and sorting operations
 Using SQL queries in Spark for advanced data querying
 
 Applying groupBy, join, and other transformation operations for analytics
+
 
 
 Key Skills:-
