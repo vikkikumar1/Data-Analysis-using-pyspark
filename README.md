@@ -103,3 +103,4 @@ FROM apps
 WHERE Type = 'Paid' 
 GROUP BY App 
 ORDER BY Total_Revenue DESC;
+
